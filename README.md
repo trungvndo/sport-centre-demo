@@ -1,6 +1,6 @@
 # Sport Centre Demo
 
-## Constrains
+## Constraints
 - Booking request contains date, name (of the player), email (of the player) and optionally the court id
 - Booking date must be in the future
 - name of the player must not be blank, and must not be longer than 255 characters
